@@ -1,4 +1,4 @@
-- 👋 Hola! Soy Maca Barzola
+- 👋 Hola! Im Maca Barzola
 - 🌱 Estudio Contador Público y estoy realizando el curso de programación Argentina Programa. Este curso es el primer contacto que tengo con la programación.
 - 📫 Contacto: macabarzola@gmail.com
 
